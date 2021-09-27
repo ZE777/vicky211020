@@ -25,8 +25,10 @@
 ***
 
 1.First ordered list item
+--
 2.Another item
-  ..*Unordered sub-list.
+  ..* Unordered sub-list.
+--
 3.
 
 -[x]this is checked
