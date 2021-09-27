@@ -14,8 +14,11 @@
 ![NKFUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "第一科大")
 
 Emphasis, aka *italics*, with *asterisks* or *underscores*.
+...
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
+...
 Combined emphasis with **asterisks and *underscores***.
+...
 Strikethrough uses two tildes.~~Scratch this~~.
 
 ***
@@ -25,4 +28,5 @@ Strikethrough uses two tildes.~~Scratch this~~.
   ..*Unordered sub-list.
 3.
 
+-[x]this is checked
 
