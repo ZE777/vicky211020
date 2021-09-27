@@ -11,4 +11,3 @@
 
 [更改我的網站](https://github.com/ZE777/vicky211020/edit/main/README.md)
 
-![NKUST]()
