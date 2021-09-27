@@ -44,9 +44,16 @@
 - [ ] 2nd things
 
 ***
-
+#####python code
 ``` python 
 s = "Python syntax highlighting"
 print s
+
+```
+***
+#####javascript code
+``` javascript
+var s = "JavaScript synatx highlighting";
+alert(s);
 
 ```
