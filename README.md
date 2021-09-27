@@ -38,5 +38,10 @@
 >>#####  …* note 2
 >>#####  *** note 3
 
-- [x] this is checked
+***
+
+- [ ] todo list
+- [ ] 2nd things
+
+***
 
